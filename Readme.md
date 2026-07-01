@@ -1,4 +1,4 @@
-SaaS Churn & Retention Analytics Project Overview 
+*SaaS Churn & Retention Analytics Project Overview* 
 
 Customer retention is one of the most critical success factors for any SaaS business. As subscription-based companies scale, increasing workflow complexity, product failures, support issues, and pricing friction can negatively impact customer satisfaction and lead to customer churn.
 
@@ -26,7 +26,8 @@ Business Recommendations
 
 Recommendations will focus on reducing churn by improving product reliability, optimizing customer support, and identifying high-risk customer segments through data-driven analysis.
 
-Repository Structure 
+Repository Structure
+
 01_Business_Problem/ 
 02_Data/ 
 03_SQL/ 
